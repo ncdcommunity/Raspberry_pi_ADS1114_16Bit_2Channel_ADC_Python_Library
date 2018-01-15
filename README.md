@@ -1,4 +1,3 @@
-# Raspberry_pi__ADS1114_16Bit_2Channel_ADC_Python_Library
 
 [![ADS1114](ADS1114_I2C.png)](https://store.ncd.io/product/ads1114-16-bit-2-channel-precision-analog-to-digital-converter-i2c-mini-module/).
 
@@ -22,3 +21,4 @@ Download (or git pull) the code in pi. Run the program.
 ```cpp
 $> python ADS1114.py
 ```
+The lib is a sample library, you will need to calibrate the sensor according to your application requirement.
